@@ -46,3 +46,8 @@ python main.py --data_name taobao --con 0.1 --gen 1.0 --lambda_s 0.5 --neg_edge 
 ```bash
 python main.py --data_name jdata --con 0.05 --gen 0.5 --lambda_s 0.8 --neg_edge 3 --temp 1.0 --decay 1e-8 --setting new --device [gpuid]
 ```
+
+
+### Acknowledgement
+This code is implemented based on the open source code from the paper **Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation** (SIGIR '24).
+
