@@ -1,7 +1,8 @@
 # UniMBR
 
 This is the official implementation of UniMBR **(Unified framework for Mutil-Behavior Recommendation)** 
-(ACM WWW 2025 Research Track)
+
+(Submission for ACM WWW 2025 Research Track)
 
 ---
  ### Datasets
