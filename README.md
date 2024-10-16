@@ -9,7 +9,7 @@ This is the official implementation of UniMBR **(Unified framework for Mutil-Beh
 We use three widely used datasets for multi-behavior recommendation, **Tmall**, **Taobao** and **Jdata**.
 
 ---
-### How to Run (Original Setting : Evaluation Protocol 1)
+### How to Run (Original Setting: Evaluation Protocol 1)
 
 ```bash
 cd UniMBR
