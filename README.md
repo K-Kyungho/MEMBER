@@ -8,8 +8,11 @@ This is the official implementation of UniMBR **(Unified framework for Mutil-Beh
  ### Datasets
 We use three widely used datasets for multi-behavior recommendation, **Tmall**, **Taobao** and **Jdata**.
 
-First, please preprocess the data in each folder (run preprocess.py)
-
+First, please preprocess the data in each data folder.
+```bash
+cd data/{data_name}
+python preprocess.py
+```
 ---
 ### How to Run (Original Setting: Evaluation Protocol 1)
 
