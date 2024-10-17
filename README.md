@@ -11,6 +11,7 @@ We use three widely used datasets for multi-behavior recommendation, **Tmall**, 
 First, please preprocess the data in each data folder.
 ```bash
 cd data/{data_name}
+
 python preprocess.py
 ```
 ---
