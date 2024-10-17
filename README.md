@@ -15,7 +15,7 @@ cd data/{data_name}
 python preprocess.py
 ```
 ---
-We have two evaluation protocols, the original protocol (protocol 1) and new protocol we proposed (protocol 2). 
+We have **two evaluation protocols, the original protocol (protocol 1) and new protocol we proposed (protocol 2)**. 
 
 ### How to Run (Original Setting: Evaluation Protocol 1)
 ```bash
