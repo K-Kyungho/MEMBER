@@ -23,7 +23,7 @@ cd UniMBR
 ```
 * **Tmall**
 ```bash
-python main.py --data_name Tmall --con 1e-2 --gen 1.0 --lambda_s 0.6 --neg_edge 3 --temp 0.5 --decay 1e-8 --setting ori --device [gpuid]
+python main.py --data_name tmall --con 1e-2 --gen 1.0 --lambda_s 0.6 --neg_edge 3 --temp 0.5 --decay 1e-8 --setting ori --device [gpuid]
 ```
 * **Taobao**
 ```bash
@@ -42,7 +42,7 @@ cd UniMBR
 ```
 * **Tmall**
 ```bash
-python main.py --data_name Tmall --con 0.1 --gen 1.0 --lambda_s 0.5 --neg_edge 3 --temp 0.3 --decay 1e-7 --setting new --device [gpuid]
+python main.py --data_name tmall --con 0.1 --gen 1.0 --lambda_s 0.5 --neg_edge 3 --temp 0.3 --decay 1e-7 --setting new --device [gpuid]
 ```
 
 * **Taobao**
