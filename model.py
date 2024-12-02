@@ -253,8 +253,8 @@ class UniMBR(nn.Module):
         if len(self.dataset.inter_matrix) == 3:
             view_embeddings = self.aux_graph_view(embeddings_loc)
             cart_embeddings = self.aux_graph_cart(embeddings_loc)
-            tar_embeddings = self.tar_graph(embeddings_loc) # Pretrai
-            glo_embeddings = self.glo_graph(embeddings_glo) # target behavior에 대한 graph
+            tar_embeddings = self.tar_graph(embeddings_loc) 
+            glo_embeddings = self.glo_graph(embeddings_glo) 
             
             user_view_embedding, item_view_embedding = torch.split(view_embeddings, [self.n_users + 1, self.n_items + 1])
             user_cart_embedding, item_cart_embedding = torch.split(cart_embeddings, [self.n_users + 1, self.n_items + 1])
