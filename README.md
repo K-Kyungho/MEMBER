@@ -1,8 +1,8 @@
-# UniMBR
+# MEMBER
 
-This is the official implementation of UniMBR **(Unified framework for Mutil-Behavior Recommendation)** 
+This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** 
 
-(Submission for ACM WWW 2025 Research Track)
+(Submission for ACM KDD 2025 Research Track)
 
 ---
  ### Datasets
@@ -15,7 +15,7 @@ cd data/{data_name}
 python preprocess.py
 ```
 ---
-We have **two evaluation protocols, the original protocol (protocol 1) and new protocol we proposed (protocol 2)**. 
+We have **three evaluation output results, overall performance under the standard evaluation, performance on the visited items, and performance on the unvisited items.**
 
 ### How to Run (Original Setting: Evaluation Protocol 1)
 ```bash
