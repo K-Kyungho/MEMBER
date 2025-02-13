@@ -17,21 +17,21 @@ python preprocess.py
 ---
 We have **three evaluation output results, overall performance under the standard evaluation, performance on the visited items, and performance on the unvisited items.**
 
-### How to Run (Original Setting: Evaluation Protocol 1)
+### How to Run MEMBER
 ```bash
-cd UniMBR
+cd MEMBER
 ```
 * **Tmall**
 ```bash
-python main.py --data_name tmall --con 1e-2 --gen 1.0 --lambda_s 0.6 --neg_edge 3 --temp 0.5 --decay 1e-8 --setting ori --device [gpuid]
+python main.py --data_name tmall --con_s 0.1 --temp_s 0.6  --con_us 0.1 --temp_us 0.7 --gen 0.1 --lambda_s 0.6 --alpha 2
 ```
 * **Taobao**
 ```bash
-python main.py --data_name taobao --con 1e-3 --gen 1.0 --lambda_s 0.6 --neg_edge 3 --temp 0.7 --decay 1e-8 --setting ori --device [gpuid]
+python main.py --data_name taobao --con_s 0.1 --temp_s 0.8 --con_us 0.1 --temp_us 0.7 --gen 0.1 --lambda_us 0.6
 ```
 * **Jdata**
 ```bash
-python main.py --data_name jdata --con 1e-4 --gen 1.5 --lambda_s 0.6 --neg_edge 5 --temp 0.7 --decay 1e-8 --setting ori --device [gpuid]
+python main.py --data_name jdata --con_s 0.1 --temp_s 0.6 --con_us 0.01 --temp_us 1.0 --gen 0.01 --lambda_s 0.4 --lambda_us 0.4 --alpha 2
 ```
 
 ---
