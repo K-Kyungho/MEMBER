@@ -19,7 +19,7 @@ We have **three evaluation output results, overall performance under the standar
 
 ### How to Run MEMBER
 ```bash
-cd MEMBER
+cd METHOD
 ```
 * **Tmall**
 ```bash
