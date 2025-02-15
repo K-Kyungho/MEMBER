@@ -15,7 +15,7 @@ cd data/{data_name}
 python preprocess.py
 ```
 ---
-We have **three evaluation output results, overall performance under the standard evaluation, performance on the visited items, and performance on the unvisited items.**
+We have **three evaluation results: (1) overall performance under the standard evaluation, (2) performance on the visited items, and (3) performance on the unvisited items.**
 
 ### How to Run MEMBER
 ```bash
