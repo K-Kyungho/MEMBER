@@ -2,7 +2,7 @@
 
 This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** 
 
-(Submission for ACM KDD 2025 Research Track)
+(Submission for ACM CIKM 2025 Full Research Papers)
 
 ---
  ### Datasets
