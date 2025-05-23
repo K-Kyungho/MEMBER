@@ -1,9 +1,8 @@
 # MEMBER
 
 This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** 
-(Submission for ACM CIKM 2025 Full Research Papers)
 
----
+(Submission for ACM CIKM 2025 Full Research Papers)
 
 ---
 ### Online Appendix
