@@ -3,6 +3,10 @@
 This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** 
 
 (Submission for ACM CIKM 2025 Full Research Papers)
+---
+### Online Appendix
+[Online Appendix.pdf](https://github.com/user-attachments/files/20407967/_CIKM_2025__Multi_relational_Recommendation__Online_Appendix_.pdf)
+
 
 ---
  ### Datasets
