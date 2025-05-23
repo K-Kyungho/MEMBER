@@ -8,7 +8,7 @@ This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BE
 ### Online Appendix
 For additional details, please refer to the online appendix of MEMBER.
 
-[Online Appendix.pdf](https://github.com/user-attachments/files/20407967/_CIKM_2025__Multi_relational_Recommendation__Online_Appendix_.pdf)
+[Online_Appendix.pdf](https://github.com/user-attachments/files/20407967/_CIKM_2025__Multi_relational_Recommendation__Online_Appendix_.pdf)
 
 
 ---
