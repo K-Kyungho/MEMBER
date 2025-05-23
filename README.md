@@ -6,10 +6,7 @@ This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BE
 
 ---
 ### Online Appendix
-For additional details, please refer to the online appendix of MEMBER.
-
-[Online_Appendix.pdf](https://github.com/user-attachments/files/20407967/_CIKM_2025__Multi_relational_Recommendation__Online_Appendix_.pdf)
-
+For additional details, please refer to the online appendix of MEMBER. (online_appendix.pdf)
 
 ---
  ### Datasets
