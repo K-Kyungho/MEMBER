@@ -6,7 +6,7 @@ This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BE
 
 ---
 ### Online Appendix
-For additional details, please refer to the online appendix of MEMBER. (online_appendix.pdf)
+For additional details, please refer to the online appendix of MEMBER. (MBMER-Online Appendix.pdf in the root folder.)
 
 ---
  ### Datasets
