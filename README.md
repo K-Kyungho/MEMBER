@@ -5,6 +5,9 @@ This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BE
 (Accepted for ACM CIKM 2025 Full Research Paper)
 
 ---
+
+[MEMBER](https://github.com/user-attachments/files/21678300/_CIKM_2025__Multi_relational_Recommendation.6.pdf)
+
 ### Online Appendix
 For additional details, please refer to the online appendix of MEMBER. (MBMER-Online Appendix.pdf in the root folder.)
 
