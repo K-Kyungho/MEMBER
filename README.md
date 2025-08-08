@@ -2,7 +2,7 @@
 
 This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** 
 
-(Submission for ACM CIKM 2025 Full Research Papers)
+(Accepted for ACM CIKM 2025 Full Research Paper)
 
 ---
 ### Online Appendix
@@ -37,9 +37,3 @@ python main.py --data_name taobao --con_s 0.1 --temp_s 0.8 --con_us 0.1 --temp_u
 ```bash
 python main.py --data_name jdata --con_s 0.1 --temp_s 0.6 --con_us 0.01 --temp_us 1.0 --gen 0.01 --lambda_s 0.4 --lambda_us 0.4 --alpha 2
 ```
-
----
-
-### Acknowledgement
-This code is implemented based on the open source code from the paper **Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation** (SIGIR '24).
-
