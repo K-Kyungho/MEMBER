@@ -2,7 +2,7 @@
 
 This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.19507-b31b1b.svg)](([https://arxiv.org/abs/2508.19507](https://arxiv.org/abs/2508.19507)))
+[![arXiv](https://img.shields.io/badge/arXiv-2508.19507-b31b1b.svg)]([https://arxiv.org/abs/2508.19507](https://arxiv.org/abs/2508.19507))
 
 
 (Accepted for ACM CIKM 2025 Full Research Paper)
