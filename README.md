@@ -1,6 +1,8 @@
 # MEMBER
 
-This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** [[PDF]](https://github.com/user-attachments/files/21678300/_CIKM_2025__Multi_relational_Recommendation.6.pdf)
+This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)**
+
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]((https://arxiv.org/abs/2508.19507))
 
 
 (Accepted for ACM CIKM 2025 Full Research Paper)
