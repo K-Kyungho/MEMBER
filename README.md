@@ -3,7 +3,8 @@
 This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BEhavior Recommendation)** 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.19507-b31b1b.svg)](https://arxiv.org/abs/2508.19507)
-
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 (Accepted for ACM CIKM 2025 Full Research Paper)
 
