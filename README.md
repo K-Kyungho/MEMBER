@@ -14,7 +14,7 @@ This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BE
 
 - Paper: [arXiv:2508.19507](https://arxiv.org/abs/2508.19507)  
 - Accepted at: **ACM CIKM 2025 (Full Research Paper)**  
-- Online Appendix: See `MBMER-Online Appendix.pdf` in the root folder.
+- Online Appendix: See `MEMBER-Online Appendix.pdf` in the root folder.
 
 ---
 ## 📊 Datasets
