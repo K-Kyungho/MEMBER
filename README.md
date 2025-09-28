@@ -10,22 +10,34 @@ This is the official implementation of MEMBER **(Mixture-of-Experts for Multi-BE
 
 ---
 
-### Online Appendix
-For additional details, please refer to the online appendix of MEMBER. (MBMER-Online Appendix.pdf in the root folder.)
+## 📑 Paper & Appendix
+
+- Paper: [arXiv:2508.19507](https://arxiv.org/abs/2508.19507)  
+- Accepted at: **ACM CIKM 2025 (Full Research Paper)**  
+- Online Appendix: See `MBMER-Online Appendix.pdf` in the root folder.
 
 ---
- ### Datasets
-We use three widely used datasets for multi-behavior recommendation, **Tmall**, **Taobao** and **Jdata**.
+## 📊 Datasets
 
-First, please preprocess the data in each data folder.
+We use three widely adopted multi-behavior recommendation datasets:  
+- **Tmall**  
+- **Taobao**  
+- **Jdata**
+
+### Preprocessing
 ```bash
 cd data/{data_name}
-
 python preprocess.py
 ```
----
-We have **three evaluation results: (1) overall performance under the standard evaluation, (2) performance on the visited items, and (3) performance on the unvisited items.**
 
+---
+## 📈 Evaluation
+
+We report three evaluation results:
+1. **Overall performance** under the standard evaluation  
+2. **Performance on visited items**  
+3. **Performance on unvisited items**
+   
 ### How to Run MEMBER
 ```bash
 cd METHOD
@@ -42,3 +54,13 @@ python main.py --data_name taobao --con_s 0.1 --temp_s 0.8 --con_us 0.1 --temp_u
 ```bash
 python main.py --data_name jdata --con_s 0.1 --temp_s 0.6 --con_us 0.01 --temp_us 1.0 --gen 0.01 --lambda_s 0.4 --lambda_us 0.4 --alpha 2
 ```
+
+## 📚 Citation
+If you find MEMBER useful, please cite our paper:
+```bibtex
+@inproceedings{member2025,
+  title     = {A Self-Supervised Mixture of Experts Framework for Multi-behavior Recommendation},
+  author    = {kim2025self},
+  booktitle = {Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
+  year      = {2025}
+}
