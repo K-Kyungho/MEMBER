@@ -58,9 +58,9 @@ python main.py --data_name jdata --con_s 0.1 --temp_s 0.6 --con_us 0.01 --temp_u
 ## 📚 Citation
 If you find MEMBER useful, please cite our paper:
 ```bibtex
-@inproceedings{self2025kim,
+@inproceedings{kim2025self,
   title     = {A Self-Supervised Mixture of Experts Framework for Multi-behavior Recommendation},
-  author    = {kim2025self},
-  booktitle = {Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
+  author    = {Kim, Kyungho and Kim, Sunwoo and Lee, Geon and Shin, Kijung},
+  booktitle = {CIKM},
   year      = {2025}
 }
